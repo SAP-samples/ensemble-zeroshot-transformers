@@ -2,6 +2,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![arXiv](https://img.shields.io/badge/arXiv-2109.05105-29d634.svg)]([https://arxiv.org/abs/2211.04928](https://arxiv.org/abs/2408.11327))
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/ensemble-zeroshot-transformers)](https://api.reuse.software/info/github.com/SAP-samples/ensemble-zeroshot-transformers)
 
 ## Description
 This repository contains zero-shot joint decoding sample code of our [paper](https://arxiv.org/abs/2408.11327) for models hosted on the [huggingface hub](https://huggingface.co/) based on [transformers](https://github.com/huggingface/transformers) library.
